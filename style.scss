@@ -575,7 +575,7 @@ button:hover {
     transform: translateY(2px);
 }
 
-@media (width: 1299.98px) {
+@media (max-width: 1299.98px) {
     .wrapper {
         width: 980px;
     }
@@ -681,7 +681,7 @@ button:hover {
 
 }
 
-@media (width: 999.98px) {
+@media (max-width: 999.98px) {
     .wrapper {
         width: 680px;
     }
@@ -935,7 +935,7 @@ button:hover {
     }
 
 }
-@media (width: 709.98px) {
+@media (max-width: 709.98px) {
     .wrapper {
         width: 320px;
     }
