@@ -29,3 +29,14 @@ function openMenu() {
         body.style.paddingRight = "0px"
     }
 }
+
+burgerMenu.addEventListener("click", close);
+
+function close() {
+    burgerMenu.style.opacity= "0";
+    burgerMenu.style.zIndex = "-1";
+    opacity = 0;
+    body.style.overflow = "auto";
+    body.style.overflowX = "hidden";
+    body.style.paddingRight = "0px"
+}
