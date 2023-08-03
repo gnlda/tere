@@ -575,7 +575,7 @@ button:hover {
     transform: translateY(2px);
 }
 
-@media screen and (width < 1300px) {
+@media (width: 1299.98px) {
     .wrapper {
         width: 980px;
     }
@@ -681,7 +681,7 @@ button:hover {
 
 }
 
-@media screen and (width < 1000px) {
+@media (width: 999.98px) {
     .wrapper {
         width: 680px;
     }
@@ -935,7 +935,7 @@ button:hover {
     }
 
 }
-@media screen and (width < 710px) {
+@media (width: 709.98px) {
     .wrapper {
         width: 320px;
     }
